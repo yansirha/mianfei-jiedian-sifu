@@ -6,9 +6,9 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| 更新日期 | 2026年9月13日 |
-| 自动同步时间 | 2026年9月13日 00:00 |
-| 当天文章 | https://free.tntyx.com/posts/nodes/2026-09-13 |
+| 更新日期 | 2026年9月14日 |
+| 自动同步时间 | 2026年9月14日 00:00 |
+| 当天文章 | https://free.tntyx.com/posts/nodes/2026-09-14 |
 | 订阅格式 | XBoard 通用订阅 |
 | 适配客户端 | Clash Verge Rev / Mihomo / v2rayN / v2rayNG / Shadowrocket / OpenClash |
 | 主要地区 | 香港、日本、新加坡、美国 |
@@ -19,14 +19,14 @@
 ### 当天文章链接
 
 ```text
-https://free.tntyx.com/posts/nodes/2026-09-13
+https://free.tntyx.com/posts/nodes/2026-09-14
 ```
 
 请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。路由器配置更适合稳定维护到正文页，避免旧仓库地址散落。
 
 ## 快速入口
 
-- 今日免费节点文章：https://free.tntyx.com/posts/nodes/2026-09-13
+- 今日免费节点文章：https://free.tntyx.com/posts/nodes/2026-09-14
 - 常见问题文档：https://free.tntyx.com/docs
 - 连接异常排查：https://free.tntyx.com/docs/troubleshooting/no-internet
 - 每日免费节点归档：https://free.tntyx.com/nodes
@@ -36,12 +36,12 @@ https://free.tntyx.com/posts/nodes/2026-09-13
 
 - 面向场景：OpenWrt 路由器和 OpenClash 测试配置入口
 - 推荐读者：需要在路由器端导入订阅、排查 DNS 或规则模式的用户
-- 内容重点：OpenClash 更新订阅、路由器 DNS、规则模式和家庭网络测试；2026年9月13日更新；香港、日本、新加坡、美国 等地区；100 Mbps 公共限速
+- 内容重点：OpenClash 更新订阅、路由器 DNS、规则模式和家庭网络测试；2026年9月14日更新；香港、日本、新加坡、美国 等地区；100 Mbps 公共限速
 - 固定入口：https://free.tntyx.com/
 
 ## 今日导入路径
 
-1. 打开今日文章，确认日期是 2026年9月13日，再获取正文里的免费订阅入口。
+1. 打开今日文章，确认日期是 2026年9月14日，再获取正文里的免费订阅入口。
 2. 先阅读站内 OpenClash 文档，再把今日文章里的入口写入路由器订阅配置；如果客户端没有弹出，就复制文章里的地址后手动新增订阅。
 3. 导入后先更新订阅并测速，优先选择延迟稳定的 香港、日本、新加坡、美国 节点。
 4. 如果列表为空或格式不识别，回到站内导入教程、格式检测工具和排错页定位问题。
